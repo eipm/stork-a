@@ -1,6 +1,6 @@
 click==8.0.1
 cycler==0.10.0
-Flask==2.0.1
+Flask==2.2.5
 Flask-Cors==3.0.10
 importlib-metadata==4.6.1
 itsdangerous==2.0.1
